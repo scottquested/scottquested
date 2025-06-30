@@ -5,11 +5,7 @@ I'm Scott Quested, a Frontend Engineer from East Sussex.
 - 🔭 I have worked in all sorts of sectors: Car insurance, Audio equipment, E-commerce, Life sciences, Fin tech.
 - ❤️ I love creating pixel perfect apps.
 - 😄 I'm most happy when I've got my head down in a challenging problem.
-- 💡 I'm currently learning NextJs and Convex.
 - 🎧 I'm always listening to DnB when I code.
-- 👨‍👩‍👧‍👦 I'm married with four children.
-- ⚽ Huge football fan (I can't believe the emoji for this is named "soccer" 🙄) - Manchester United is my team!
-- 🐶 🐈 I have a dog called Vinnie (Vin, Vinchento, Vincent) and Two cats, Lilly and Catrisha
 
 ## 🔗 Connect with me
 
